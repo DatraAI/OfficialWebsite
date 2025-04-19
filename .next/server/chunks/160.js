@@ -7,8 +7,8 @@ exports.modules = {
 
 // Exports
 module.exports = {
-	"style": {"fontFamily":"'__Poppins_0d6ef0', '__Poppins_Fallback_0d6ef0'","fontStyle":"normal"},
-	"className": "__className_0d6ef0"
+	"style": {"fontFamily":"'__Poppins_1fa6f9', '__Poppins_Fallback_1fa6f9'","fontStyle":"normal"},
+	"className": "__className_1fa6f9"
 };
 
 

@@ -5,8 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  assetPrefix: process.env.NODE_ENV === 'production' ? 'https://datra.ai' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '' : '',
+  assetPrefix: '/',
+  basePath: '',
 }
 
 module.exports = nextConfig 
