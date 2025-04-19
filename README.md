@@ -1,6 +1,10 @@
-# Datra Official Website
+# Datra AI Official Website
 
-A modern landing page for Datra built with Next.js and shadcn/ui.
+A modern landing page for Datra AI built with Next.js and shadcn/ui.
+
+## About Datra AI
+
+Datra AI is an AI company focused on building vertical AI solutions that are trained with your knowledge, enhanced by your documents, and always learning from your users.
 
 ## Features
 
@@ -21,8 +25,8 @@ A modern landing page for Datra built with Next.js and shadcn/ui.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/official-website.git
-cd official-website
+git clone https://github.com/DatraAI/OfficialWebsite.git
+cd OfficialWebsite
 ```
 
 2. Install dependencies:
