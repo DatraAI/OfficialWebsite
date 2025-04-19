@@ -11,6 +11,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Datra - Turn Your Knowledge Into an AI Assistant",
   description: "Upload 300 Q&As or past conversations, and Datra turns your expertise into a smart chatbot trained just for your business.",
+  icons: {
+    icon: '/favicon.png',
+  },
 }
 
 export default function RootLayout({
