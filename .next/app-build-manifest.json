@@ -1,26 +1,26 @@
 {
   "pages": {
     "/page": [
-      "static/chunks/webpack-05bf0e496a68aa90.js",
+      "static/chunks/webpack-d42499f3d700052c.js",
       "static/chunks/fd9d1056-149d907368260f5a.js",
       "static/chunks/596-32cf5c12511f7c72.js",
-      "static/chunks/main-app-d704c668c71ded9e.js",
+      "static/chunks/main-app-df87530c557f83f4.js",
       "static/chunks/477-c23819534d1b3ef3.js",
       "static/chunks/app/page-2bdd8d7af17f3409.js"
     ],
     "/layout": [
-      "static/chunks/webpack-05bf0e496a68aa90.js",
+      "static/chunks/webpack-d42499f3d700052c.js",
       "static/chunks/fd9d1056-149d907368260f5a.js",
       "static/chunks/596-32cf5c12511f7c72.js",
-      "static/chunks/main-app-d704c668c71ded9e.js",
-      "static/css/25f2f3e1b5e36e8b.css",
-      "static/chunks/app/layout-1e6fc766e7c180df.js"
+      "static/chunks/main-app-df87530c557f83f4.js",
+      "static/css/007b9ee31c6d8451.css",
+      "static/chunks/app/layout-5881c403cd8f0015.js"
     ],
     "/howitworks/page": [
-      "static/chunks/webpack-05bf0e496a68aa90.js",
+      "static/chunks/webpack-d42499f3d700052c.js",
       "static/chunks/fd9d1056-149d907368260f5a.js",
       "static/chunks/596-32cf5c12511f7c72.js",
-      "static/chunks/main-app-d704c668c71ded9e.js",
+      "static/chunks/main-app-df87530c557f83f4.js",
       "static/chunks/477-c23819534d1b3ef3.js",
       "static/chunks/app/howitworks/page-d78dfd5d7d286191.js"
     ]
