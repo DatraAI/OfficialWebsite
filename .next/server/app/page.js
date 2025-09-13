@@ -228,7 +228,7 @@ module.exports = require("next/dist/shared/lib/utils/warn-once");
 
 /***/ }),
 
-/***/ 3125:
+/***/ 9170:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -262,18 +262,18 @@ const tree = {
         '',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8159)), "/Users/ryan/Desktop/OfficialWebsite/src/app/page.tsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8159)), "/Users/tigercosmos/OfficialWebsite/src/app/page.tsx"],
           
         }]
       },
         {
-        'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 4053)), "/Users/ryan/Desktop/OfficialWebsite/src/app/layout.tsx"],
+        'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 4053)), "/Users/tigercosmos/OfficialWebsite/src/app/layout.tsx"],
 'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 5493, 23)), "next/dist/client/components/not-found-error"],
         
       }
       ]
       }.children;
-const pages = ["/Users/ryan/Desktop/OfficialWebsite/src/app/page.tsx"];
+const pages = ["/Users/tigercosmos/OfficialWebsite/src/app/page.tsx"];
 
 // @ts-expect-error - replaced by webpack/turbopack loader
 
@@ -305,7 +305,7 @@ const routeModule = new AppPageRouteModule({
 
 /***/ }),
 
-/***/ 5725:
+/***/ 6729:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3813))
@@ -379,7 +379,7 @@ function Home() {
                                 className: "relative w-full aspect-video",
                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("iframe", {
                                     className: "absolute top-0 left-0 w-full h-full rounded-lg",
-                                    src: "https://www.loom.com/embed/ee0fad4eca2149978a8d628d63f46d00?sid=ef1c0be4-068d-4cca-8f6b-a4fae6d62145&autoplay=1",
+                                    src: "https://www.loom.com/embed/aa127d555c314aeaa806fc4d439d99d5?sid=ebba42b4-07f7-4f22-bdc8-4436cb4fe17d&autoplay=1",
                                     allowFullScreen: true,
                                     title: "Datra Demo Video"
                                 })
@@ -565,7 +565,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1363);
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/ryan/Desktop/OfficialWebsite/src/app/page.tsx`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/tigercosmos/OfficialWebsite/src/app/page.tsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -586,7 +586,7 @@ const __default__ = proxy.default;
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [160,756], () => (__webpack_exec__(3125)));
+var __webpack_exports__ = __webpack_require__.X(0, [160,967], () => (__webpack_exec__(9170)));
 module.exports = __webpack_exports__;
 
 })();

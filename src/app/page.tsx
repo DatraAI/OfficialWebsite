@@ -39,7 +39,7 @@ export default function Home() {
             <div className="relative w-full aspect-video">
               <iframe
                 className="absolute top-0 left-0 w-full h-full rounded-lg"
-                src="https://www.loom.com/embed/ee0fad4eca2149978a8d628d63f46d00?sid=ef1c0be4-068d-4cca-8f6b-a4fae6d62145&autoplay=1"
+                src="https://www.loom.com/embed/aa127d555c314aeaa806fc4d439d99d5?sid=ebba42b4-07f7-4f22-bdc8-4436cb4fe17d&autoplay=1"
                 allowFullScreen
                 title="Datra Demo Video"
               />

@@ -7,8 +7,8 @@ exports.modules = {
 
 // Exports
 module.exports = {
-	"style": {"fontFamily":"'__Poppins_1fa6f9', '__Poppins_Fallback_1fa6f9'","fontStyle":"normal"},
-	"className": "__className_1fa6f9"
+	"style": {"fontFamily":"'__Poppins_6bee3b', '__Poppins_Fallback_6bee3b'","fontStyle":"normal"},
+	"className": "__className_6bee3b"
 };
 
 
@@ -5697,7 +5697,7 @@ const createProxy = _serveredge.createClientModuleProxy; //# sourceMappingURL=mo
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(1363);
-module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/next/dist/client/components/app-router.js");
+module.exports = createProxy("/Users/tigercosmos/OfficialWebsite/node_modules/next/dist/client/components/app-router.js");
  //# sourceMappingURL=app-router.js.map
 
 
@@ -5709,7 +5709,7 @@ module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/n
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(1363);
-module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/next/dist/client/components/error-boundary.js");
+module.exports = createProxy("/Users/tigercosmos/OfficialWebsite/node_modules/next/dist/client/components/error-boundary.js");
  //# sourceMappingURL=error-boundary.js.map
 
 
@@ -5762,7 +5762,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(1363);
-module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/next/dist/client/components/layout-router.js");
+module.exports = createProxy("/Users/tigercosmos/OfficialWebsite/node_modules/next/dist/client/components/layout-router.js");
  //# sourceMappingURL=layout-router.js.map
 
 
@@ -5774,7 +5774,7 @@ module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/n
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(1363);
-module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/next/dist/client/components/not-found-boundary.js");
+module.exports = createProxy("/Users/tigercosmos/OfficialWebsite/node_modules/next/dist/client/components/not-found-boundary.js");
  //# sourceMappingURL=not-found-boundary.js.map
 
 
@@ -5871,7 +5871,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(1363);
-module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/next/dist/client/components/render-from-template-context.js");
+module.exports = createProxy("/Users/tigercosmos/OfficialWebsite/node_modules/next/dist/client/components/render-from-template-context.js");
  //# sourceMappingURL=render-from-template-context.js.map
 
 
@@ -5985,7 +5985,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(1363);
-module.exports = createProxy("/Users/ryan/Desktop/OfficialWebsite/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js");
+module.exports = createProxy("/Users/tigercosmos/OfficialWebsite/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js");
  //# sourceMappingURL=static-generation-searchparams-bailout-provider.js.map
 
 
